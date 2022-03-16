@@ -1,0 +1,11 @@
+#home{
+    height: 100vh;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background:linear-gradient( rgba(4, 12, 48, 0.301) 100%, rgba(80, 110, 192, 0.651)100%),rgba(43, 21, 21, 0.466);
+    display: flex;
+    align-items: center;
+}
